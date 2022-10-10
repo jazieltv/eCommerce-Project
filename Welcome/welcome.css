@@ -1,0 +1,16 @@
+body {
+    background-image: url('welcome.jpg');
+    background-repeat: no-repeat;
+    background-color: antiquewhite;
+  }
+.link {
+    line-height: 1050px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.link a {
+    text-decoration: none;
+    color: turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
