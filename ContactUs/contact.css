@@ -5,6 +5,9 @@ body {
   padding-top: 10px;
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
+  background-color: burlywood;
+  height: 40px;
 }
 
 .header a {
@@ -19,12 +22,15 @@ body {
 
 .footer {
   display: flex;
-  justify-content: space-evenly;
   position: fixed;
   left: 0;
   bottom: 20px;
   width: 100%;
   text-align: center;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: burlywood;
+  height: 40px;
 }
 
 .footer a {
@@ -150,3 +156,7 @@ body {
       transform: translate(0, 8px);
     }
   } 
+
+  .wrapper {
+    padding-top: 50px;
+  }

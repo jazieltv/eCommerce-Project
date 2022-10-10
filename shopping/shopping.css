@@ -1,9 +1,11 @@
 .header{
-    padding-top: 10px;
-    display: flex;
-    justify-content: space-evenly;
-  }
-  
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: burlywood;
+  height: 40px;
+}
   .header a {
     text-decoration: none;
     font-family: sans-serif;
@@ -16,12 +18,15 @@
   
   .footer {
     display: flex;
-    justify-content: space-evenly;
     position: fixed;
     left: 0;
     bottom: 20px;
     width: 100%;
     text-align: center;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: burlywood;
+    height: 40px;
   }
   
   .footer a {
