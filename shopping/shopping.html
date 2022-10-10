@@ -9,16 +9,63 @@
 </head>
 <body>
     <div class="header">
-        <a href="../Home/home.html">Home</a>
-        <a href="../shopping/shopping.html">Shopping</a>
-        <a href="../ContactUs/contact.html">Contact Us</a>
-        <a href="../about/about.html">Get To Know Us</a>
-    </div>
+        <a href="../Home/home.html"><img src="../Audley-end.avif" height="75px"></a>
+          <a href="../Home/home.html">Home</a>
+          <a href="../shopping/shopping.html">Shopping</a>
+          <a href="../ContactUs/contact.html">Contact Us</a>
+          <a href="../about/about.html">Get To Know Us</a>
+      </div>
+
+<h1>Shirts</h1>
+<ul id="shirt"></ul>
+
+<script>
+  const ul = document.getElementById('shirt');
+  const list = document.createDocumentFragment();
+  const url = 'https://jsonplaceholder.typicode.com/users';
+
+  fetch(shirts.json)
+    .then((response) => {
+      return response.json();
+    })
+    .then((data) => {
+      let shirt = data;
+
+      shirts.map(function(shirt) {
+        let li = document.createElement('li');
+        let productName = document.createElement('h2');
+        let propductPrice = document.createElement('h3');
+
+        productName.innerHTML = `${shirt.name}`;
+        propductPrice.innerHTML = `${shirt.email}`;
+
+        li.appendChild(productName);
+        li.appendChild(propductPrice);
+        list.appendChild(li);
+      });
+    }).
+    catch(function(error) {
+      console.log(error);
+    });
+
+  ul.appendChild(list);
+</script>
     <footer>
         <a>Customer Service</a>
         <a>Find A Store Near You</a>
         <a>Customer Suppport</a>
         <a>Rewards Program</a>
     </footer>
+    <script src="app.js"></script>
+    <div class="footer">
+        <a>Customer Service</a>
+        <a>Find A Store Near You</a>
+        <a>Customer Suppport</a>
+        <a>Rewards Program</a>
+ <a></a>
+         <a href="https://www.facebook.com/"><img src="../facebook.png" height="40px"></a>
+         <a href="https://www.twitter.com/"><img src="../twitter.webp" height="40px"></a>
+         <a href="https://www.youtube.com/"><img src="../YT.png" height="40px"></a>
+     </div>
 </body>
 </html>

@@ -1,94 +1,110 @@
 [{
+    "productType" : "shirt",
     "productName" : "Men's Shirt Shrek",
     "productPrice" : "$13.99",
     "productDescription" : "A stunning tee with our Lord and Savior printed in the front",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shirts/shrektee.jpg"
 },
 {
+    "productType" : "shirt",
     "productName" : "Men's Shirt Chungus",
     "productPrice" : "$13.99",
     "productDescription" : "A stunning tee with our second Lord and Savior printed in the front",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shirts/chungus.jpg"
 },
 {
+    "productType" : "shirt",
     "productName" : "Men's Shirt Charizard",
     "productPrice" : "$13.99",
     "productDescription" : "Goated",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shirt/charizard.jpeg"
 },
 {
+    "productType" : "shirt",
     "productName" : "Men's Shirt Terry Crews",
     "productPrice" : "$13.99",
     "productDescription" : "Old Spice Man",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shirts/terry.jpg"
 },
 {
+    "productType" : "shoes",
     "productName" : "Converse",
     "productPrice" : "$89.97",
     "productDescription" : "Classic Converse with a twist",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shoes/converse.jpg"
 },
 {
+    "productType" : "shoes",
     "productName" : "Crocs",
     "productPrice" : "$625.00",
     "productDescription" : "When you'd like to go out in comfort",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shoes/crocs.webp"
 },
 {
+    "productType" : "shoes",
     "productName" : "Versace Triple Platforms",
     "productPrice" : "$1,125.00",
     "productDescription" : "For when you need those extra three inches on date nighyt",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shoes/versace.webp"
 },
 {
+    "productType" : "shoes",
     "productName" : "Balenciaga Toe Boots",
     "productPrice" : "$1,590.00",
     "productDescription" : "An experiemntal boot made with Balnciagas l;ead desginer",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shoes/balen2.webp"
 },
 {
+    "productType" : "shoes",
     "productName" : "Converse",
     "productPrice" : "$89.97",
     "productDescription" : "Classic Converse with a twist",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shoes/converse.jpg"
 },
 {
+    "productType" : "shoes",
     "productName" : "Crocs",
     "productPrice" : "$625.00",
     "productDescription" : "When you'd like to go out in comfort",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shoes/crocs.webp"
 },
 {
+    "productType" : "shoes",
     "productName" : "Versace Triple Platforms",
     "productPrice" : "$1,125.00",
     "productDescription" : "For when you need those extra three inches on date nighyt",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shoes/versace.webp"
 },
 {
+    "productType" : "shoes",
     "productName" : "Balenciaga Toe Boots",
     "productPrice" : "$1,590.00",
     "productDescription" : "An experiemntal boot made with Balnciagas l;ead desginer",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Mens/Shoes/balen2.webp"
 },
 {
+    "productType" : "misc",
     "productName" : "Meat",
     "productPrice" : "$5,000.00",
     "productDescription" : "Meat from a rare animal",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Pants/meat.webp"
 },
 {
+    "productType" : "misc",
     "productName" : "Utensils",
     "productPrice" : "$15.00",
     "productDescription" : "Kitchen necessities",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Pants/untesils.webp"
 },
 {
+    "productType" : "misc",
     "productName" : "Broom",
     "productPrice" : "$19.99",
     "productDescription" : "A must need for the home closet",
     "pictureLocation" : "C:/Users/Corylus/Pictures/eCommerce/Pants/broom.webp"
 },
 {
+    "productType" : "misc",
     "productName" : "Watering Can",
     "productPrice" : "$12.00",
     "productDescription" : "For those hard to reach plants",
