@@ -1,15 +1,36 @@
-.header {
+.header{
     padding-top: 10px;
     display: flex;
     justify-content: space-evenly;
-}
-
-.header a {
+  }
+  
+  .header a {
     text-decoration: none;
     font-family: sans-serif;
     font-size: 20px;
-}
-.header a:hover {
+  }
+  .header a:hover {
+    background-color: azure;
+    transform: scale(150%);
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: space-evenly;
+    position: fixed;
+    left: 0;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .footer a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+  }
+  
+  .footer a:hover {
     background-color: azure;
     transform: scale(150%);
   }
