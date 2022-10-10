@@ -1,0 +1,15 @@
+.header{
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.header a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.header a:hover {
+    background-color: azure;
+    transform: scale(150%);
+  }
