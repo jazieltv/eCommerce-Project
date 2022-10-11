@@ -38,14 +38,14 @@
     "productName" : "Crocs",
     "productPrice" : "$625.00",
     "productDescription" : "When you'd like to go out in comfort",
-    "pictureLocation" : "/images/crocs.webp"
+    "pictureLocation" : "/images/crocs.jpg"
 },
 {
     "productType" : "shoes",
     "productName" : "Versace Triple Platforms",
     "productPrice" : "$1,125.00",
     "productDescription" : "For when you need those extra three inches on date nighyt",
-    "pictureLocation" : "/images/versace.webp"
+    "pictureLocation" : "/images/versace.jpg"
 },
 {
     "productType" : "shoes",

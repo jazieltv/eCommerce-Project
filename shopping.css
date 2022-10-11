@@ -1,3 +1,8 @@
+body {
+  background-color: antiquewhite;
+}
+
+
 .header{
   padding-top: 10px;
   display: flex;
@@ -68,7 +73,7 @@
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.06);
 }
 
-.product1 .pro img {
+.product1 img {
     width: 400px;
     border-radius: 20px;
 }
