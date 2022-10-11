@@ -1,0 +1,85 @@
+[{
+    "productType" : "shirt",
+    "productName" : "Men's Shirt Shrek",
+    "productPrice" : "$13.99",
+    "productDescription" : "A stunning tee with our Lord and Savior printed in the front",
+    "pictureLocation" : "/images/shrek.jpg"
+},
+{
+    "productType" : "shirt",
+    "productName" : "Men's Shirt Chungus",
+    "productPrice" : "$13.99",
+    "productDescription" : "A stunning tee with our second Lord and Savior printed in the front",
+    "pictureLocation" : "/images/chungus.jpg"
+},
+{
+    "productType" : "shirt",
+    "productName" : "Men's Shirt Charizard",
+    "productPrice" : "$13.99",
+    "productDescription" : "Goated",
+    "pictureLocation" : "/images/charizard.jpg"
+},
+{
+    "productType" : "shirt",
+    "productName" : "Men's Shirt Terry Crews",
+    "productPrice" : "$13.99",
+    "productDescription" : "Old Spice Man",
+    "pictureLocation" : "/images/terry.jpg"
+},
+{
+    "productType" : "shoes",
+    "productName" : "Converse",
+    "productPrice" : "$89.97",
+    "productDescription" : "Classic Converse with a twist",
+    "pictureLocation" : "/images/converse.jpg"
+},
+{
+    "productType" : "shoes",
+    "productName" : "Crocs",
+    "productPrice" : "$625.00",
+    "productDescription" : "When you'd like to go out in comfort",
+    "pictureLocation" : "/images/crocs.webp"
+},
+{
+    "productType" : "shoes",
+    "productName" : "Versace Triple Platforms",
+    "productPrice" : "$1,125.00",
+    "productDescription" : "For when you need those extra three inches on date nighyt",
+    "pictureLocation" : "/images/versace.webp"
+},
+{
+    "productType" : "shoes",
+    "productName" : "Balenciaga Toe Boots",
+    "productPrice" : "$1,590.00",
+    "productDescription" : "An experiemntal boot made with Balnciagas l;ead desginer",
+    "pictureLocation" : "/images/Balenciaga.webp"
+},
+{
+    "productType" : "misc",
+    "productName" : "Meat",
+    "productPrice" : "$5,000.00",
+    "productDescription" : "Meat from a rare animal",
+    "pictureLocation" : "/images/unicorn.webp"
+},
+{
+    "productType" : "misc",
+    "productName" : "Utensils",
+    "productPrice" : "$15.00",
+    "productDescription" : "Kitchen necessities",
+    "pictureLocation" : "/images/untensils.jpg"
+},
+{
+    "productType" : "misc",
+    "productName" : "Broom",
+    "productPrice" : "$19.99",
+    "productDescription" : "A must need for the home closet",
+    "pictureLocation" : "/images/broom.webp"
+},
+{
+    "productType" : "misc",
+    "productName" : "Watering Can",
+    "productPrice" : "$12.00",
+    "productDescription" : "For those hard to reach plants",
+    "pictureLocation" : "/images/wateringcan.png"
+}
+]

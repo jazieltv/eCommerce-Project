@@ -14,7 +14,6 @@ body {
   .header a {
     text-decoration: none;
     font-family: sans-serif;
-    font-size: 20px;
   }
   .header a:hover {
     background-color: azure;
@@ -37,7 +36,6 @@ body {
   .footer a {
     text-decoration: none;
     font-family: sans-serif;
-    font-size: 20px;
   }
   
   .footer a:hover {
@@ -93,3 +91,81 @@ body {
     padding: 10px 10px 10px 10px;
     box-shadow: 5px 5px 8px #94b3c8, 10px 10px 8px #4d4e24, 15px 15px 8px #bd8025;
     }
+
+    @media (min-width: 700px) and (max-width: 999px) {
+      .text h1{
+        font-size: 15px;
+      }
+
+      .text h2 {
+        font-size: 13px;
+      }
+
+      .text2 h1 {
+        font-size: 15px;
+      }
+
+      .text2 h2{
+        font-size: 13px;
+      }
+  
+      .header a {
+        font-size: 16px;
+      }
+      
+      .footer a {
+        font-size: 16px;
+      }
+
+    }
+  
+    @media (min-width: 1000px) {
+      .text h1{
+        font-size: 22px;
+      }
+
+      .text h2 {
+        font-size: 21px;
+      }
+
+      .text2 h1 {
+        font-size: 22px;
+      }
+
+      .text2 h2{
+        font-size: 21px;
+      }
+    
+        .header a {
+          font-size: 25px;
+        }
+        
+        .footer a {
+          font-size: 25px;
+        }
+      }
+      @media (max-width: 699px) {
+        .text h1{
+          font-size: 8px;
+        }
+  
+        .text h2 {
+          font-size: 9px;
+        }
+  
+        .text2 h1 {
+          font-size: 8px;
+        }
+  
+        .text2 h2{
+          font-size: 9px;
+        }
+    
+        .header a {
+          font-size: 10px;
+        }
+        
+        .footer a {
+          font-size: 10px;
+        }
+      }
